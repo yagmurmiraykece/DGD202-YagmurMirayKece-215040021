@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: c44e7a702ba5a614f92a308f552b068a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8150282508673196812
+    second: char1walkanim_0
+  - first:
+      213: -3453833312102511754
+    second: char1walkanim_1
+  - first:
+      213: -8487657008135264300
+    second: char1walkanim_2
+  - first:
+      213: -7934947316697736339
+    second: char1walkanim_3
+  - first:
+      213: 3014472362364018755
+    second: char1walkanim_4
+  - first:
+      213: -611586599376407076
+    second: char1walkanim_5
+  - first:
+      213: -3482564084698591864
+    second: char1walkanim_6
+  - first:
+      213: -3044670522830445566
+    second: char1walkanim_7
+  - first:
+      213: 8522261966158136103
+    second: char1walkanim_8
+  - first:
+      213: 4041213303216960751
+    second: char1walkanim_9
+  - first:
+      213: -7504901542141814713
+    second: char1walkanim_10
+  - first:
+      213: 6640307198153398888
+    second: char1walkanim_11
+  - first:
+      213: -1066793654540778313
+    second: char1walkanim_12
+  - first:
+      213: 7372808707252221806
+    second: char1walkanim_13
+  - first:
+      213: 3353685347006756800
+    second: char1walkanim_14
+  - first:
+      213: 3978104525988763443
+    second: char1walkanim_15
+  - first:
+      213: 7883038933882265395
+    second: char1walkanim_16
+  - first:
+      213: -5711861021230065855
+    second: char1walkanim_17
+  - first:
+      213: 2462874076913636892
+    second: char1walkanim_18
+  - first:
+      213: 7897688231879128303
+    second: char1walkanim_19
+  - first:
+      213: 6623780414510453140
+    second: char1walkanim_20
+  - first:
+      213: -2446055104698363699
+    second: char1walkanim_21
+  - first:
+      213: 6597680130972934408
+    second: char1walkanim_22
+  - first:
+      213: -431228808281486111
+    second: char1walkanim_23
+  - first:
+      213: -5240168641036066391
+    second: char1walkanim_24
+  - first:
+      213: 8774272354873745067
+    second: char1walkanim_25
+  - first:
+      213: -1438386882281844585
+    second: char1walkanim_26
+  - first:
+      213: 8243669873409628815
+    second: char1walkanim_27
+  - first:
+      213: -5549494174330570931
+    second: char1walkanim_28
+  - first:
+      213: 3117359719462254812
+    second: char1walkanim_29
+  - first:
+      213: -7565537068818376094
+    second: char1walkanim_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char1walkanim_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 659
+        width: 143
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc547b8d3164ee80800000000000000
+      internalID: -8150282508673196812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 659
+        width: 144
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b08bed6e48110d0800000000000000
+      internalID: -3453833312102511754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 659
+        width: 143
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d72ebeabe8c53a80800000000000000
+      internalID: -8487657008135264300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 659
+        width: 142
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bdac4e47761e190800000000000000
+      internalID: -7934947316697736339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 659
+        width: 141
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340a0f764ae85d920800000000000000
+      internalID: 3014472362364018755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_5
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 659
+        width: 140
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5b7ca6a353387f0800000000000000
+      internalID: -611586599376407076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_6
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 659
+        width: 138
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dc1089a627bafc0800000000000000
+      internalID: -3482564084698591864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_7
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 660
+        width: 137
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204a6947a482fb5d0800000000000000
+      internalID: -3044670522830445566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_8
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 660
+        width: 134
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7238da7fa18254670800000000000000
+      internalID: 8522261966158136103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_9
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 657
+        width: 136
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe474d78616451830800000000000000
+      internalID: 4041213303216960751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_10
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 656
+        width: 139
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7481b526fcb39d790800000000000000
+      internalID: -7504901542141814713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_11
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 656
+        width: 141
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a1761073c172c50800000000000000
+      internalID: 6640307198153398888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 337
+        width: 142
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4c474c2dcf131f0800000000000000
+      internalID: -1066793654540778313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 338
+        width: 144
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67fca8d47a715660800000000000000
+      internalID: 7372808707252221806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 338
+        width: 145
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c735c4fd0faa8e20800000000000000
+      internalID: 3353685347006756800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 338
+        width: 147
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3371fee4df0153730800000000000000
+      internalID: 3978104525988763443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_16
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 338
+        width: 147
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f50ace42e266d60800000000000000
+      internalID: 7883038933882265395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_17
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 338
+        width: 148
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1479e27f9a46bb0b0800000000000000
+      internalID: -5711861021230065855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_18
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 338
+        width: 147
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1694f09ce2ed2220800000000000000
+      internalID: 2462874076913636892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_19
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 338
+        width: 148
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe430f76a993a9d60800000000000000
+      internalID: 7897688231879128303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_20
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 339
+        width: 148
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491d51551356ceb50800000000000000
+      internalID: 6623780414510453140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_21
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 339
+        width: 148
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc05c6f87dddd0ed0800000000000000
+      internalID: -2446055104698363699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_22
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 340
+        width: 148
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8016b448f1baf8b50800000000000000
+      internalID: 6597680130972934408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_23
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 341
+        width: 149
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec87710fa7f30af0800000000000000
+      internalID: -431228808281486111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 18
+        width: 148
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a167e3726e2747b0800000000000000
+      internalID: -5240168641036066391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 16
+        width: 147
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae97caf73a74c970800000000000000
+      internalID: 8774272354873745067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 16
+        width: 146
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790520060c2d90ce0800000000000000
+      internalID: -1438386882281844585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_27
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 17
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a9b22b216676270800000000000000
+      internalID: 8243669873409628815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_28
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 17
+        width: 145
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d473def637c3cf2b0800000000000000
+      internalID: -5549494174330570931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_29
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 18
+        width: 145
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8b8abf526134b20800000000000000
+      internalID: 3117359719462254812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char1walkanim_30
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 19
+        width: 143
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ad70eae10d10790800000000000000
+      internalID: -7565537068818376094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      char1walkanim_0: -8150282508673196812
+      char1walkanim_1: -3453833312102511754
+      char1walkanim_10: -7504901542141814713
+      char1walkanim_11: 6640307198153398888
+      char1walkanim_12: -1066793654540778313
+      char1walkanim_13: 7372808707252221806
+      char1walkanim_14: 3353685347006756800
+      char1walkanim_15: 3978104525988763443
+      char1walkanim_16: 7883038933882265395
+      char1walkanim_17: -5711861021230065855
+      char1walkanim_18: 2462874076913636892
+      char1walkanim_19: 7897688231879128303
+      char1walkanim_2: -8487657008135264300
+      char1walkanim_20: 6623780414510453140
+      char1walkanim_21: -2446055104698363699
+      char1walkanim_22: 6597680130972934408
+      char1walkanim_23: -431228808281486111
+      char1walkanim_24: -5240168641036066391
+      char1walkanim_25: 8774272354873745067
+      char1walkanim_26: -1438386882281844585
+      char1walkanim_27: 8243669873409628815
+      char1walkanim_28: -5549494174330570931
+      char1walkanim_29: 3117359719462254812
+      char1walkanim_3: -7934947316697736339
+      char1walkanim_30: -7565537068818376094
+      char1walkanim_4: 3014472362364018755
+      char1walkanim_5: -611586599376407076
+      char1walkanim_6: -3482564084698591864
+      char1walkanim_7: -3044670522830445566
+      char1walkanim_8: 8522261966158136103
+      char1walkanim_9: 4041213303216960751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
